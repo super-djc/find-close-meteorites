@@ -7,3 +7,8 @@ This project requires python3 and requests package
 
 'python3 find_meteors.py'
 or if you're a windows chump 'python find_meteors.py'
+
+'''
+pipenv install
+pipenv run python find_meteors.py
+'''
