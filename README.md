@@ -6,7 +6,7 @@ demo project that uses python and NASA to list meteorites nearest to a given lat
 This project requires python3 and requests package
 
 'python3 find_meteors.py'
-or if you're a windows chump 'python find_meteors.py'
+or if you're a windows chump 'python meteors/find_meteors.py'
 
 '''
 pipenv install
